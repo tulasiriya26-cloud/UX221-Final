@@ -37,11 +37,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sign-up/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -68,6 +63,11 @@
     <url>
         <loc>
             http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sign-up-2/
         </loc>
     </url>
     <url>
