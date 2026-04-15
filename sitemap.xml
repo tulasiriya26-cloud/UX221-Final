@@ -72,6 +72,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/product/elmers-stretch-n-create-keepsakes-kit/
         </loc>
     </url>
